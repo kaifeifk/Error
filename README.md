@@ -2,8 +2,8 @@
 
 
 # 实验二
-- 复制itcast数据库的数据文件和日志文件到U盘或其他存储位置错误
-    - 方楷
+## 复制itcast数据库的数据文件和日志文件到U盘或其他存储位置错误
+- 方楷
 
 ![方楷](https://github.com/kaifeifk/Error/blob/master/images/avatar.png)
 
