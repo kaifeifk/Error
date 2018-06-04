@@ -1,5 +1,4 @@
 # Error
 ASP.NET错误集
-- 是的是的所多
+- 错误文档
 ![image](https://github.com/kaifeifk/Error/images/avatar.png)
-- aidosdsddsf
