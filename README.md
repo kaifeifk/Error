@@ -5,7 +5,7 @@
 ## 1.复制itcast数据库的数据文件和日志文件到U盘或其他存储位置错误
 - 方楷
 
-![方楷](https://github.com/kaifeifk/Error/blob/master/images/avatar.png)
+![方楷](https://github.com/kaifeifk/Error/blob/master/images/sqlwenjian.png)
 
 - 在复制itcast数据库的数据文件和日志文件到U盘或其他存储位置时出现错误，原因是没有讲sql server的代理关闭，导致无法复制，需要先将其关闭
 
